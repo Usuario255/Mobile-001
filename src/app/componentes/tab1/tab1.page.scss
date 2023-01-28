@@ -1,0 +1,15 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.Escudo{
+  width: 100px;
+  height: 100px;
+  display: flex;
+}
+.Escudos{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
